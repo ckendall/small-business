@@ -7,6 +7,7 @@
 
 
 .header {
+	border-radius: 20px;
 	margin-left: 5%;
 	margin-right: 5%;
 	margin-top: 10px;
@@ -19,12 +20,16 @@ body {
 }
 
 .about {
+	margin-top: 5px;
 	background-color: #ffffff;
 	border: solid 1px;
 	padding: 0px 10px 0px 10px;
+	border-radius: 20px;
+
 }
 
 .services {
+	border-radius: 20px;
 	background-color: #ffffff;
 	border: solid 1px;
 	padding: 0px 10px 0px 10px;
@@ -32,6 +37,7 @@ body {
 }
 
 .contact {
+	border-radius: 20px;
 	background-color: #ffffff;
 	border: solid 1px;
 	padding: 0px 10px 0px 10px;
@@ -48,6 +54,7 @@ body {
  }
 
 #map-canvas {
+	border-radius: 20px;
 	margin: 0px auto; 
 	height: 384px;
 	width: 50%;
